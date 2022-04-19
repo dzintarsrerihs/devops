@@ -1,2 +1,2 @@
-# devops
-Anything related to learning DevOps
+# DevOps repozitorijs
+Dzintara Rēriha DevOps repozitorijs pamati iesācējiem
